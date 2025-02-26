@@ -1,14 +1,8 @@
 # RedDino: A Foundation Model for Red Blood Cell Analysis
 
-**RedDino** is a state-of-the-art self-supervised foundation model designed specifically for red blood cell (RBC) image analysis. This repository accompanies our MICCAI 2025 submission and provides the code, example notebook, and media assets necessary to reproduce and extend our work.
+**RedDino** is a state-of-the-art self-supervised foundation model designed specifically for red blood cell image analysis.
 ---
 
-## Data Figure
-
-The **Data Figure** below illustrates the composition of our training set:
-
-- **Patient and Image Count:** Over 420 patients and 56,712 original images.
-- **Extracted Samples:** More than 3 million segmented red blood cells and 1.25 million patch images.
 
 ![Data Figure](media/data.png)
 
