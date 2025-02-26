@@ -6,7 +6,6 @@
 
 ![Data Figure](media/data.png)
 
-*Figure: Visualization of the training dataset composition, showing the number of patients, original images, and extracted RBC patches.*
 
 ---
 
