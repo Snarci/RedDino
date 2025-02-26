@@ -20,8 +20,6 @@ RedDino leverages a modified Dinov2 framework tailored for RBC morphology analys
 
 ---
 
----
-
 ## Example Notebook
 
 We provide an [example notebook](usage_example.ipynb) to help you get started with RedDino. This notebook demonstrates:
@@ -29,15 +27,3 @@ We provide an [example notebook](usage_example.ipynb) to help you get started wi
 - How to load the pre-trained RedDino model.
 - Feature extraction from RBC images.
 
-
----
-
-## Installation
-
-To run the example notebook and use the provided code, follow these steps:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/RedDino.git
-   cd RedDino
